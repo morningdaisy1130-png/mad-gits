@@ -1,8 +1,8 @@
 I have a pet Cat (noun) named Charles.
 
-He is very handsome (adjective).
+He is very ugly (adjective).
 
-I feed him organic, locally sourced cat food (noun).
+I feed him organic, locally sourced human food (noun).
 
 He is only about the size of my hand (noun).
 
