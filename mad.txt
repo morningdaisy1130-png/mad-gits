@@ -2,7 +2,7 @@ I have a pet Cat (noun) named Charles.
 
 He is very handsome (adjective).
 
-I feed him organic, locally sourced ______ (noun).
+I feed him organic, locally sourced cat food (noun).
 
 He is only about the size of my hand (noun).
 
